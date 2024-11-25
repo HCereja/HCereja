@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HCereja&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=HCereja&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Citação aleatória de desenvolvedor
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HCereja&icon=1&color=1)](https://visitcount.itsvg.in)
 
